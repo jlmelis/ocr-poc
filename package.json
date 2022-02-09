@@ -19,6 +19,7 @@
     "vite": "^2.8.0"
   },
   "dependencies": {
-    "daisyui": "^1.25.4"
+    "daisyui": "^1.25.4",
+    "tesseract.js": "^2.1.1"
   }
 }
